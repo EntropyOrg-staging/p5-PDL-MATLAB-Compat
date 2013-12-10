@@ -1,0 +1,39 @@
+list of functions
+	via chm
+	: abs.pdl           cos.pdl           filter.pdl     imagesc.pdl     magic.pdl        repmat.pdl       subplot.pdl 
+	: acos.pdl          cov-matlab.pdl    find.pdl       imcrop.pdl      mat2gray.pdl     reshape.pdl      sum.pdl 
+	: addpath.pdl       cumsum.pdl        findobj.pdl    imfilter.pdl    max.pdl          rgb2gray.pdl     svd.pdl 
+	: all.pdl           deblank.pdl       fitfun.pdl     imread.pdl      mean.pdl         rmpath.pdl       switch.pdl 
+	: alpha.pdl         deconvblind.pdl   fix.pdl        imresize.pdl    mean2.pdl        round.pdl        tan.pdl 
+	: and.pdl           deconvwnr.pdl     fliplr.pdl     imrotate.pdl    median.pdl       save.pdl         tanh.pdl 
+	: any.pdl           delete.pdl        flipud.pdl     imshow.pdl      menu.pdl         saveas.pdl       text.pdl 
+	: aryule.pdl        det.pdl           floor.pdl      imwrite.pdl     mesh.pdl         set.pdl          textscan.pdl 
+	: asin.pdl          diag.pdl          flops.pdl      inline.pdl      meshgrid.pdl     setdiff.pdl      textwrap.pdl 
+	: atan.pdl          dir.pdl           fopen.pdl      input.pdl       min.pdl          sign.pdl         title.pdl 
+	: atan2.pdl         disp.pdl          fplot.pdl      inputname.pdl   mod.pdl          sin.pdl          trace.pdl 
+	: axes.pdl          double.pdl        fprintf.pdl    int2str.pdl     nargchk.pdl      single.pdl       tril.pdl 
+	: axis.pdl          downsample.pdl    fread.pdl      interp2.pdl     ndgrid.pdl       size.pdl         truesize.pdl 
+	: bar.pdl           drawnow.pdl       fscanf.pdl     inv.pdl         nlfilter.pdl     sort.pdl         uicontrol.pdl 
+	: blanks.pdl        edge.pdl          fseek.pdl      iradon.pdl      norm.pdl         sortrows.pdl     uigetfile.pdl 
+	: blkproc.pdl       editpath.pdl      fspecial.pdl   isa.pdl         normxcorr2.pdl   soundsc.pdl      uimenu.pdl 
+	: box.pdl           eig.pdl           full.pdl       ischar.pdl      num2str.pdl      sparse.pdl       uint32.pdl 
+	: buffer.pdl        eigs.pdl          function.pdl   isempty.pdl     ones.pdl         spdiags.pdl      uint8.pdl 
+	: cat.pdl           elseif.pdl        fwrite.pdl     isequal.pdl     open.pdl         speye.pdl        unique.pdl 
+	: ceil.pdl          end.pdl           gallery.pdl    isfield.pdl     ordfilt2.pdl     sprintf.pdl      var.pdl 
+	: cell.pdl          entropy.pdl       get.pdl        ishandle.pdl    patch.pdl        sqrt.pdl         varargin.pdl 
+	: cell2mat.pdl      error.pdl         getrect.pdl    isnumeric.pdl   path.pdl         squeeze.pdl      version.pdl 
+	: cell2struct.pdl   errordlg.pdl      ginput.pdl     isreal.pdl      pause.pdl        sscanf.pdl       view.pdl 
+	: char.pdl          eval.pdl          gplot.pdl      isstr.pdl       permute.pdl      start.pdl        warning.pdl 
+	: chol.pdl          exist.pdl         gradient.pdl   isstruct.pdl    pinv.pdl         std.pdl          watchoff.pdl 
+	: cholupdate.pdl    exp.pdl           gray.pdl       kron.pdl        plot.pdl         std2.pdl         while.pdl 
+	: circshift.pdl     eye.pdl           grid.pdl       legend.pdl      primes.pdl       stem.pdl         whitebg.pdl 
+	: clabel.pdl        factor.pdl        griddata.pdl   length.pdl      printdlg.pdl     str2func.pdl     whos.pdl 
+	: class.pdl         fclose.pdl        guidata.pdl    line.pdl        prod.pdl         str2num.pdl      window.pdl 
+	: clear.pdl         fcnchk.pdl        hanning.pdl    linspace.pdl    questdlg.pdl     strcat.pdl       xlabel.pdl 
+	: close.pdl         feval.pdl         helpdlg.pdl    load.pdl        radon.pdl        strcmp.pdl       xor.pdl 
+	: colfilt.pdl       fft.pdl           hist.pdl       log.pdl         rand.pdl         strcmpi.pdl      ylabel.pdl 
+	: colormap.pdl      fft2.pdl          histc.pdl      log10.pdl       randn.pdl        stretchlim.pdl   zeros.pdl 
+	: colperm.pdl       fftshift.pdl      hold.pdl       log2.pdl        randperm.pdl     strncmp.pdl 
+	: conj.pdl          fieldnames.pdl    ifft.pdl       logical.pdl     rank.pdl         strrep.pdl 
+	: contour.pdl       figure.pdl        imadjust.pdl   lower.pdl       real.pdl         strtok.pdl 
+	: conv2.pdl         fill.pdl          image.pdl      ls.pdl          rem.pdl          struct.pdl 
