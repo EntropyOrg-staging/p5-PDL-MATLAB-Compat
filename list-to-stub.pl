@@ -65,3 +65,6 @@ colperm       fftshift      hold       log2        randperm     strncmp
 conj          fieldnames    ifft       logical     rank         strrep 
 contour       figure        imadjust   lower       real         strtok 
 conv2         fill          image      ls          rem          struct
+
+
+accumarray
