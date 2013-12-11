@@ -68,3 +68,4 @@ conv2         fill          image      ls          rem          struct
 
 
 accumarray
+bsxfun
